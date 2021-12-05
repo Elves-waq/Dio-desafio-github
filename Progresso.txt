@@ -1,0 +1,2 @@
+Após as aulas de git consegui ,agregar bastante conhecimento a mais em meu contato com o 
+git , entendendo mais a fundo o funcionamento do git por dentro .
